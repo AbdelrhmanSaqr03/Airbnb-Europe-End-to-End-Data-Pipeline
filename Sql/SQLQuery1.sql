@@ -1,0 +1,8 @@
+CREATE DATABASE Airbnb_DWH;
+GO
+
+USE Airbnb_DWH;
+GO
+
+CREATE SCHEMA bronze;
+GO
